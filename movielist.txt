@@ -5,4 +5,4 @@ insert into movies values("Iruthi Sutru","Madhavan","Ritika Singh","Sudha Kongar
 insert into movies values("Premam","Nivin Pauley","Sai pallavi","Alphonse Puthren",2015);
 insert into movies values("kaakha kaakha","Surya","Jyothika","Gautham vasudev Menon",2022);
 select * from movies;
-SELECT movie FROM movies WHERE actress='Sai pallavi';
+SELECT movie FROM movies WHERE actor='Surya';
